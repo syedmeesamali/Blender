@@ -2,6 +2,12 @@
 
 ## Folder Structure
 
+## 2D_CAD
+- Mostly AutoCAD files which can be mixed with blender and used as a reference.
+
+## BPY
+- Blender scripts - Python based
+
 ## Addon 
 - folder contains various useful addons found online
 
